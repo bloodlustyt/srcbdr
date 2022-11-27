@@ -1,6 +1,6 @@
 #Github.com/Vasusen-code
 
-import time, os
+import time, os, asyncio
 
 from .. import bot as Drone
 from .. import userbot, Bot
